@@ -25,12 +25,12 @@ The survey explores:
 * Trends in **tools & technologies beyond Python**
 * Expanding dataset with more countries
 
-## 🙋 About Me
+---
 
-I am a **Data Analyst from the University of Mumbai**. Aspiring Data Analyst actively developing skills in **data analysis, visualization, and reporting**.
+## 📸 Dashboard Preview
+![Survey Dashboard](https://github.com/yourusername/yourrepo/blob/main/dashboard.png)
 
-* Proficient in **Python (Pandas, NumPy, Scikit-learn)**, **SQL**, **Power BI**, and **Excel**
-* Experienced with **real-world datasets** and **hands-on projects**
-* Strong foundation in **data manipulation, exploratory analysis, and dashboard creation**
-* Eager to grow into data-driven roles including **Data Engineer** and **Data Scientist**
+---
 
+## 🔗 Live Dashboard
+[Click here to view the live dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjM4ZmY4MzUtNTUwYS00YjJlLWEwZGUtNjc5MDdlNWYzOGU4IiwidCI6ImZkMDI4ZTBiLWViNzctNGI0My04MzE4LTA4NGUxOTc1NWE0ZiJ9)
