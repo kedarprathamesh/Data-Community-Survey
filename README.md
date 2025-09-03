@@ -28,7 +28,7 @@ The survey explores:
 ---
 
 ## 📸 Dashboard Preview
-![Survey Dashboard]([https://github.com/yourusername/yourrepo/blob/main/dashboard.png](https://github.com/kedarprathamesh/Data-Community-Survey/blob/main/Data%20Community%20Survey%20Snapshot.png))
+![Survey Dashboard](https://github.com/kedarprathamesh/Data-Community-Survey/blob/main/Data%20Community%20Survey%20Snapshot.png)
 
 ---
 
